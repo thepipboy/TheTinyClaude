@@ -25,32 +25,7 @@ class Red
       [0][1][0][0]]
 End Class
 console.WriteLine(element1,element2,element3,element4)
-class Blue
-     element9 =
-    [[0][1][0][1],
-     [1][0][1][0],
-     [0][0][0][1],
-     [0][0][0][0]]
 
-     element10 =
-    [[0][1][0][1],
-     [0][0][1][0],
-     [0][1][0][1],
-     [0][0][0][0]]
-
-     element11 =
-    [[0][1][0][1],
-     [0][0][1][0],
-     [0][0][0][1],
-     [0][0][1][0]]
- 
-     element12 =
-    [[0][1][0][1],
-     [0][0][1][0],
-     [0][0][0][1],
-     [1][0][0][0]]
-End class
-console.WriteLine(element9,element10,element11,element12)
 Class Green
     element5 =
     [[1][0][1][0],
@@ -77,6 +52,34 @@ Class Green
      [0][0][0][1]]
 End Class
 Console.WriteLine(element5,element6,element7,element8)
+
+class Blue
+     element9 =
+    [[0][1][0][1],
+     [1][0][1][0],
+     [0][0][0][1],
+     [0][0][0][0]]
+
+     element10 =
+    [[0][1][0][1],
+     [0][0][1][0],
+     [0][1][0][1],
+     [0][0][0][0]]
+
+     element11 =
+    [[0][1][0][1],
+     [0][0][1][0],
+     [0][0][0][1],
+     [0][0][1][0]]
+ 
+     element12 =
+    [[0][1][0][1],
+     [0][0][1][0],
+     [0][0][0][1],
+     [1][0][0][0]]
+End class
+console.WriteLine(element9,element10,element11,element12)
+
 class white
     element13 =
     [[1][0][1][0],
@@ -127,6 +130,7 @@ class white
      [0][0][1][0]]
 End Class
 console.WriteLine(element13,element14,element15,element16,element17,element18,element19,element20)
+
 Imports System
 Imports System.Collections.Generic
 
